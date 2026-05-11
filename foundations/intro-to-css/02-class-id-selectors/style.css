@@ -1,1 +1,16 @@
-/* Add CSS Styling */
+.odd {
+    background-color: lightpink;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+    }
+#id-2 {
+    font-size: 36px;
+    color:blue;
+    }
+#id-4 {
+    font-size: 24px;
+    background-color:lightgreen;
+    font-weight: bold;
+    }
+.cooler {
+    font-size: 24px;
+    }
